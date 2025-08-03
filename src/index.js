@@ -7,5 +7,10 @@ import './scss/styles.scss'
 // import Typed from 'typed.js';
 import '../node_modules/typed.js/dist/typed.umd.js'
 
+import particles from 'particles.js'
+
+import './assets/js/particles.js'
+
 import './assets/js/main.js';
 
+import "./assets/js/skill.js";
