@@ -20736,7 +20736,7 @@ a:hover {
   padding: 20px 0;
 }
 #header .logo {
-  font-size: 28px;
+  font-size: 35px;
   margin: 0;
   padding: 0;
   font-weight: 600;
@@ -20746,7 +20746,7 @@ a:hover {
   color: #fff;
 }
 #header .logo img {
-  max-height: 40px;
+  max-height: 60px;
 }
 
 #header.header-scrolled {
@@ -21333,7 +21333,7 @@ a:hover {
   }
 }
 /*--------------------------------------------------------------
-# Portfolio
+# Portofolio
 --------------------------------------------------------------*/
 .work-box {
   margin-bottom: 3rem;
@@ -21379,56 +21379,56 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Portfolio Details
+# Portofolio Details
 --------------------------------------------------------------*/
-.portfolio-details {
+.portofolio-details {
   padding-top: 40px;
 }
-.portfolio-details .portfolio-details-slider img {
+.portofolio-details .portofolio-details-slider img {
   width: 100%;
 }
-.portfolio-details .portfolio-details-slider .swiper-pagination {
+.portofolio-details .portofolio-details-slider .swiper-pagination {
   margin-top: 20px;
   position: relative;
 }
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
+.portofolio-details .portofolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
   background-color: var(--background-color_1);
   opacity: 1;
   border: 1px solid #42b883;
 }
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
+.portofolio-details .portofolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #42b883;
 }
-.portfolio-details .portfolio-info {
+.portofolio-details .portofolio-info {
   padding: 30px;
   box-shadow: 0px 0 30px var(--background-color_3);
 }
-.portfolio-details .portfolio-info h3 {
+.portofolio-details .portofolio-info h3 {
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid var(--border-top-color_1);
 }
-.portfolio-details .portfolio-info ul {
+.portofolio-details .portofolio-info ul {
   list-style: none;
   padding: 0;
   font-size: 15px;
 }
-.portfolio-details .portfolio-info ul li + li {
+.portofolio-details .portofolio-info ul li + li {
   margin-top: 10px;
 }
-.portfolio-details .portfolio-description {
+.portofolio-details .portofolio-description {
   padding-top: 30px;
 }
-.portfolio-details .portfolio-description h2 {
+.portofolio-details .portofolio-description h2 {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
 }
-.portfolio-details .portfolio-description p {
+.portofolio-details .portofolio-description p {
   padding: 0;
 }
 
@@ -22028,54 +22028,54 @@ footer .credits a {
   font-size: 1.2rem;
 }
 
-.portfolio-details {
+.portofolio-details {
   padding-top: 40px;
 }
-.portfolio-details .portfolio-details-slider img {
+.portofolio-details .portofolio-details-slider img {
   width: 100%;
 }
-.portfolio-details .portfolio-details-slider .swiper-pagination {
+.portofolio-details .portofolio-details-slider .swiper-pagination {
   margin-top: 20px;
   position: relative;
 }
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
+.portofolio-details .portofolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
   background-color: #fff;
   opacity: 1;
   border: 1px solid #0078ff;
 }
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
+.portofolio-details .portofolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #cc005f;
 }
-.portfolio-details .portfolio-info {
+.portofolio-details .portofolio-info {
   padding: 30px;
   box-shadow: 0px 0 30px rgba(78, 78, 78, 0.08);
 }
-.portfolio-details .portfolio-info h3 {
+.portofolio-details .portofolio-info h3 {
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
 }
-.portfolio-details .portfolio-info ul {
+.portofolio-details .portofolio-info ul {
   list-style: none;
   padding: 0;
   font-size: 15px;
 }
-.portfolio-details .portfolio-info ul li + li {
+.portofolio-details .portofolio-info ul li + li {
   margin-top: 10px;
 }
-.portfolio-details .portfolio-description {
+.portofolio-details .portofolio-description {
   padding-top: 30px;
 }
-.portfolio-details .portfolio-description h2 {
+.portofolio-details .portofolio-description h2 {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
 }
-.portfolio-details .portfolio-description p {
+.portofolio-details .portofolio-description p {
   padding: 0;
 }
 
