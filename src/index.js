@@ -13,4 +13,6 @@ import './assets/js/particles.js'
 
 import './assets/js/main.js';
 
-import "./assets/js/skill.js";
+import './assets/js/skill.js';
+
+import './assets/js/githubapi.js';
